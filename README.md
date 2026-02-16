@@ -36,10 +36,11 @@ Easy Car Rental System – End-to-End BA Case Study
 
 Tools & Technologies
 - MS Word (BRD / FRD)
-- Excel (Analysis & UAT)
-- Lucidchart (UML Diagrams)
+- Excel (Analysis)
+- Draw.io and MS Visio (UML Diagrams)
 - JIRA (Agile Framework)
 - SQL (Business Queries)
+- Tableau
 - GitHub (Project Documentation)
 
 Career Objective
