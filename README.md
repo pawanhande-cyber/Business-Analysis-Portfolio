@@ -16,12 +16,12 @@ My experience includes:
 - KPI monitoring & performance analysis
 
 I am currently building hands-on Business Analysis projects to demonstrate:
-✔ Requirement gathering  
-✔ BRD / FRD documentation  
-✔ UML & Process Flow Diagrams  
-✔ User Stories & Acceptance Criteria  
-✔ UAT Support  
-✔ SQL for reporting & analysis  
+ Requirement gathering  
+ BRD / FRD documentation  
+ UML & Process Flow Diagrams  
+ User Stories & Acceptance Criteria  
+ UAT Support  
+ SQL for reporting & analysis  
 
 Featured Projects
 
@@ -48,5 +48,5 @@ To transition into a Business Analyst role where I can leverage my operational e
 Let's Connect
 
 LinkedIn: www.linkedin.com/in/pawan-hande-a0207188  
-Email: (Optional)  
+Email: pawan.hande@gmail.com  
 
